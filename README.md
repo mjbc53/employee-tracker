@@ -47,7 +47,7 @@ file.
 
 ## Usage 
 Here is a link on how to start using this project
-* [Video tutorial link]()
+* [Video tutorial link](https://watch.screencastify.com/v/pA8DcxwpXZAx0jdr1WLw)
 
 To use this project follow the installation guide.
 Then in your CLI run 
